@@ -1,6 +1,6 @@
 # Click Counter, Color Changer & Quote Generator
 
-**Author:** Your Name
+**Author:** Pedro Tavares
 
 #  Project Title
 Interactive Web App – Click Counter, Color Changer, and Quote Generator
