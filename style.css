@@ -1,11 +1,11 @@
-/* Base styling */
+
 body {
   font-family: Arial, sans-serif;
   margin: 40px;
   text-align: center;
 }
 
-/* Buttons */
+
 button {
   padding: 10px 20px;
   margin: 5px;
@@ -22,7 +22,7 @@ button:hover {
   background-color: #2980b9;
 }
 
-/* Color Box */
+
 #colorBox {
   width: 150px;
   height: 150px;
@@ -32,7 +32,7 @@ button:hover {
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
 }
 
-/* Layout */
+
 section {
   margin-bottom: 40px;
 }
